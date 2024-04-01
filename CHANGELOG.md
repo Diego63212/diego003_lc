@@ -1,3 +1,10 @@
+# 1.1.1
+<ul>
+<li>Updated mods</li>
+<li>Reordered mods</li>
+<li>New mods: DarkMist</li>
+</ul>
+
 # 1.1.0
 <ul>
 <li>Reordered mods</li>
