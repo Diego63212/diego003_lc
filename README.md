@@ -15,3 +15,10 @@ New options and menu so configuration is easier, some mods can be configurated i
 <p>
 Some changes to how to game works from QoL to monster changes.
 </p>
+
+## Config
+
+### Mods should be configured:
+<p>BuyableShotgun: Increase price</p>
+<p>FacilityMeltdown: Disable music</p>
+<p>Diversity: Disable voicelines and cinematics</p>

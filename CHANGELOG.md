@@ -1,8 +1,29 @@
-# 1.1.1
+# 1.2.0
 <ul>
-<li>Updated mods</li>
-<li>Reordered mods</li>
-<li>New mods: DarkMist</li>
+ <li>Updated mods</li>
+ <li>Reordered mods</li>
+ <li>Removed dependencies (auto installed)</li>
+ <li>New mods:
+  <ul>
+   <li>FasterItemDropship</li>
+   <li>MeteoMultiplier</li>
+   <li>BuyableShotgun</li>
+   <li>BuyableShotgunShells</li>
+   <li>SellBodiesFixed</li>
+   <li>Immersive Visor</li>
+   <li>UncertainCompany</li>
+   <li>OpenBodyCams</li>
+   <li>SellTracker</li>
+   <li>Corporate Restructure</li>
+   <li>MirrorDecor</li>
+   <li>ghostCodes</li>
+   <li>MoreHead</li>
+   <li>Forest Giant Motionsense</li>
+   <li>Arachnophilia</li>
+   <li>Diversity</li>
+   <li>DarkMist</li>
+  </ul>
+ </li>
 </ul>
 
 # 1.1.0
