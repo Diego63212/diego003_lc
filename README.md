@@ -19,6 +19,8 @@ Some changes to how to game works from QoL to monster changes.
 ## Config
 
 ### Mods should be configured:
-<p>BuyableShotgun: Increase price</p>
-<p>FacilityMeltdown: Disable music</p>
-<p>Diversity: Disable voicelines and cinematics</p>
+<p>BetterStamina: Change most config back or close to 1.0 (vanilla).</p>
+<p>BuyableShotgun: Increase price.</p>
+<p>FacilityMeltdown: Disable music.</p>
+<p>LethalEscape: Allow just a few monster to escape, disable outside spawn<./p>
+<p>Diversity: Disable voicelines and cinematics.</p>
