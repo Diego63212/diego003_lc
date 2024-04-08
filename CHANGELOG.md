@@ -1,3 +1,16 @@
+# 1.2.2
+<ul>
+ <li>Added mods:
+  <ul>
+   <li>LobbyCompatibility</li>
+   <li>LobbyControl</li>
+  </ul>
+ </li>
+ <li>Removed mod: LateCompany</li>
+ <li>Updated mods</li>
+ <li>Reordered mods</li>
+</ul>
+
 # 1.2.1
 <ul>
  <li>Updated mods</li>
@@ -10,8 +23,9 @@
  <li>Updated mods</li>
  <li>Reordered mods</li>
  <li>Removed dependencies (auto installed)</li>
- <li>New mods:
+ <li>Added mods:
   <ul>
+   <li>PathfindingLagFix</li>
    <li>FasterItemDropship</li>
    <li>MeteoMultiplier</li>
    <li>BuyableShotgun</li>
@@ -31,17 +45,18 @@
    <li>DarkMist</li>
   </ul>
  </li>
+ <li>Removed mod: FixCentipedeLag</li>
 </ul>
 
 # 1.1.1
 <ul>
  <li>Updated mods</li>
-<ul>
+</ul>
 
 # 1.1.0
 <ul>
  <li>Reordered mods</li>
- <li>New mod (moon): Gordion Sect0</li>
+ <li>Added mod (moon): Gordion Sect0</li>
  <li>Removed mod: FreeBirdTotemRemixJester
 </ul>
 
