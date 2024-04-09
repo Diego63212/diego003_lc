@@ -3,7 +3,7 @@
 ## Content
 
 <p>
-Multiple content mods that don't make the game much more complex or harder. Included mods are mostly new moons and a few monsters that are actually interesting to face and don't just kill you.
+Multiple content mods that don't make the game much more complex or harder. Included mods are mostly new moons and monsters.
 </p>
 
 ## Utilities
@@ -23,4 +23,5 @@ Some changes to how to game works from QoL to monster changes.
 <p>BuyableShotgun: Increase price.</p>
 <p>FacilityMeltdown: Disable music.</p>
 <p>LethalEscape: Allow just a few monster to escape, disable outside spawn.</p>
-<p>Diversity: Disable voicelines and cinematics.</p>
+<p>Diversity: Disable voicelines, cinematics, true darkness, bracken anger.</p>
+<p>UncertainCompany: Disable weather hidding.</p>

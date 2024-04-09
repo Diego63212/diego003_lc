@@ -1,3 +1,23 @@
+# 1.2.3
+<ul>
+ <li>Fixed weather desync</li>
+ <li>Added mods:
+  <ul>
+   <li>WeatherTweaks</li>
+   <li>Football</li>
+  </ul>
+ </li>
+ <li>Removed mods:
+  <ul>
+   <li>Spacestation</li>
+   <li>TeraSpace</li>
+   <li>Celestria</li>
+   <li>Dryad</li>
+  </ul>
+ </li>
+ <li>Updated mods</li>
+</ul>
+
 # 1.2.2
 <ul>
  <li>Added mods:
