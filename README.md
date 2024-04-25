@@ -8,7 +8,7 @@ Multiple mods that don't make the game much more complex or harder.
 
 ## Utilities
 <p>
-New options and menu so configuration is easier, some mods can be configurated ingame.
+New menus so configuration is easier, most mods can be configurated ingame.
 </p>
 
 ## Rework
@@ -18,11 +18,20 @@ Some changes from how the game mehanics work to monster behavior.
 
 ## Content
 <p>
-New monsters, scrap, ship improvements and QoL changes.
+New monsters, scrap, ship improvements, events.
+</p>
 
 ## Config
 
 ### Mods should be configured:
-<p>BetterStamina: Change most config back or close to 1.0 (vanilla).</p>
-<p>FacilityMeltdown: Disable music.</p>
-<p>LethalEscape: Allow just a few monster to escape, disable outside spawn.</p>
+<ul>
+ <li>
+  <p><strong>BetterStamina</strong>: Change most values back to or close to 1 (vanilla).</p>
+ </li>
+ <li>
+  <p><strong>FacilityMeltdown</strong>: Disable music.</p>
+ </li>
+ <li>
+  <p><strong>StarlancerEnemyEscape</strong>: Allow just a few monsters to escape.</p>
+ </li>
+</ul>
